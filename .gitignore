@@ -1,2 +1,37 @@
-.git
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
 .settings
+.springBeans
+.sts4-cache
+img/
+song/
+avatorImages/
+target/
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+target/classes/com/wicresoft/sorm/core/DBManager.class
+target/classes/com/wicresoft/sorm/core/Query.class
+target/classes/com/wicresoft/sorm/core/QueryFactory.class
+target/classes/com/wicresoft/sorm/core/TableContext.class
+target/classes/com/wicresoft/sorm/core/TypeConvertor.class
+target/classes/com/wicresoft/sorm/utils/JDBCUtils.class
+target/classes/META-INF/maven/com.wicresoft.sorm/sorm/pom.properties
