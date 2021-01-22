@@ -28,10 +28,4 @@ target/
 /dist/
 /nbdist/
 /.nb-gradle/
-target/classes/com/wicresoft/sorm/core/DBManager.class
-target/classes/com/wicresoft/sorm/core/Query.class
-target/classes/com/wicresoft/sorm/core/QueryFactory.class
-target/classes/com/wicresoft/sorm/core/TableContext.class
-target/classes/com/wicresoft/sorm/core/TypeConvertor.class
-target/classes/com/wicresoft/sorm/utils/JDBCUtils.class
-target/classes/META-INF/maven/com.wicresoft.sorm/sorm/pom.properties
+target/
